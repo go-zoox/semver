@@ -1,6 +1,6 @@
-module github.com/go-zoox/cron
+module github.com/go-zoox/semver
 
-go 1.17
+go 1.20
 
 require github.com/go-zoox/testify v1.0.0
 
